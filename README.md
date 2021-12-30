@@ -15,8 +15,9 @@
 
 ## THESE ARE SOME OF MY PROJECTS
 
--🥇 I just launched my first course: [Introduction to the fundamentals of Javascript][course]!
--🧩 I have launched an extension in chrome for developers and seo experts: [MultiTools Chrome Extensión][course]!
+-🥇 I just launched my first course: [Introduction to the fundamentals of Javascript][course]
+<br />
+-🧩 I have launched an extension in chrome for developers and seo experts: [MultiTools Chrome Extensión][course]
 
 
 
