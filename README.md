@@ -36,7 +36,7 @@
 -🧩 I have launched an extension in chrome for developers and seo experts: [Foto Fácil Toolbox Extención][course]
 <br />
 
-### My languages and Technologies:
+## My languages and Technologies:
 
 #### -Most used
 <br />
