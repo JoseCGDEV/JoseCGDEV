@@ -17,9 +17,16 @@
 
 -🥇 I just launched my first course: [Introduction to the fundamentals of Javascript][course]
 <br />
--🧩 I have launched an extension in chrome for developers and seo experts: [MultiTools Chrome Extensión][course]
-
-
+-🧩 I have launched an extension in chrome for developers and seo experts: [All On Box Extensión][course]
+<br />
+-📘 I have an basic template in PHP MVC for the developers in this languaje: [Simply an a php(mvc) start template][course]
+<br />
+-🛒 I have launched an versión of: [Simply an a php(mvc) start template][course] for online stores autoadministrables whit other funcionalitis[Simplystore][course]
+<br />
+-🎮 I have create an multiplayer videogame in real time: [Times of War][course]
+<br />
+-💎 I have create an aplicatión in Web 3.0 and Blockchain: [Web3 Master Apps][course]
+<br />
 
 ### Languages:
 
