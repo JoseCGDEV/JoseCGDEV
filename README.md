@@ -14,7 +14,7 @@
 
 ## THESE ARE MY ALL PROJECTS
 
-### -ARE SOME OF MY PERSONAL PROJECTS
+#### -ARE SOME OF MY PERSONAL PROJECTS
 <br />
 
 -🥇 I just launched my first course: [Introduction to the fundamentals of Javascript][course]
@@ -30,7 +30,7 @@
 -💎 I have create an aplicatión in Web 3.0 and Blockchain: [Web3 Master Apps][course]
 <br />
 
-### -ARE SOME OF THE PROJECTS DEVELOPED FOR COMPANIES
+#### -ARE SOME OF THE PROJECTS DEVELOPED FOR COMPANIES
 <br />
 
 -🧩 I have launched an extension in chrome for developers and seo experts: [Foto Fácil Toolbox Extención][course]
