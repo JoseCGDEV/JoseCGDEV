@@ -31,8 +31,11 @@
 <br />
 
 #### -ARE SOME OF THE PROJECTS DEVELOPED FOR COMPANIES
+<br />
+
 ##### -FOTO FACIL
 <br />
+
 -🎨 I have create an theme of Shopify for the Online Store: [Foto Fácil Theme][course]
 <br />
 -🧩 I have launched an extension in chrome for all departaments: [Foto Fácil Toolbox Extención][course]
