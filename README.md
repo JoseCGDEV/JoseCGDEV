@@ -15,7 +15,6 @@
 
 -🧩 I have launched an extension template for chrome using React and Typescript: [ChromeExtension-v3-usingReact-Typescript
 ][extension]
-
 <br />
 -📘 I have an basic template in PHP MVC for the developers in this languaje: [Simply an a php(mvc) start template][course]
 <br />
