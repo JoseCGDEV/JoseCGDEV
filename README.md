@@ -16,7 +16,7 @@
 -🧩 I have launched an extension template for chrome using React and Typescript: [ChromeExtension-v3-usingReact-Typescript
 ][extension]
 <br />
--📘 I have an basic template in PHP MVC for the developers in this languaje: [Simply an a php(mvc) start template][course]
+-📘 I have an basic template in PHP MVC for the developers in this languaje: [Simply an a php(mvc) start template][sstore]
 <br />
 -🛒 I have launched an versión of: [Simply an a php(mvc) start template][sstore] for online stores autoadministrables whit other funcionalitis[SimplyStore-PHPmvc-StartTemplate][sstore]
 <br />
