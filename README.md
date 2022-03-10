@@ -33,14 +33,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-
-
-[extension]: https://github.com/JoseCGDEV/ChromeExtension-v3-usingReact-Typescript
-[sstore]: https://github.com/JoseCGDEV/SimplyStore-PHPmvc-StartTemplate
-
 [twitter]: https://twitter.com/Jose_cgd
 [youtube]: https://www.youtube.com/channel/UCPpoBoAnh5A9tEXwrBepsBA
 [linkedin]: https://www.linkedin.com/in/jose-cdg/
