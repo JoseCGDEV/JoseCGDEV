@@ -21,17 +21,6 @@
 -🛒 I have launched an versión of: [Simply an a php(mvc) start template][sstore] for online stores autoadministrables whit other funcionalitis[SimplyStore-PHPmvc-StartTemplate][sstore]
 <br />
 
-#### -ARE SOME OF THE PROJECTS DEVELOPED FOR COMPANIES
-<br />
-
-##### -FOTO FACIL
-<br />
-
--🎨 I have create an theme of Shopify for the Online Store: [Foto Fácil Theme]
-<br />
--🧩 I have launched an extension in chrome for all departaments: [Foto Fácil Toolbox Extención]
-<br />
-
 ## My languages and Technologies:
 
 #### -Most used
